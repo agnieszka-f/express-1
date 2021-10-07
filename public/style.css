@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+p {
+  display: flex;
+  border: 1px solid silver; 
+  justify-content: center;
+  background: silver;
+  padding-top: 90px;
+  padding-bottom: 90px;   
+  font-size: 26px;
+  letter-spacing: 5px;
+  box-shadow: 1px 1px 5px black;
+  width: 80%;
+  color: white;
+  font-weight: bold;
+}
